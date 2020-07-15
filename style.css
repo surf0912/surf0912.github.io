@@ -55,6 +55,6 @@
     background: linear-gradient( #66c2ff, #ffcccc, #ffeee6, #FFF0F5, #FFFAFA, #FFFFF0) !important;
   }
 
-.album {
-  background-color: rgba(255, 0, 0, 0.0) !important;
-}
+  .album {
+    background-color: rgba(255, 0, 0, 0.0) !important;
+  }
